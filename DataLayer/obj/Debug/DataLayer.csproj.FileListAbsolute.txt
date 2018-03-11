@@ -1,0 +1,12 @@
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Jean Patrick\Projetos\BibliotecaOnline\AvaliacaoHBSIS\DataLayer\obj\Debug\DataLayer.pdb

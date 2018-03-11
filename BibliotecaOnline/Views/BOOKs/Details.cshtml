@@ -1,0 +1,42 @@
+﻿@model DataLayer.BOOK
+
+@{
+    ViewBag.Title = "Detalhes";
+}
+
+<h2>Detalhes</h2>
+
+<div>
+    <h4>Livro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TITLE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TITLE)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DESCRIPTION)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DESCRIPTION)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RELEASE_DATE)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RELEASE_DATE)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.ID }) |
+    @Html.ActionLink("Voltar à lista", "Index")
+</p>
