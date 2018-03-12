@@ -17,7 +17,7 @@ namespace BibliotecaOnline.Controllers
         // GET: BOOKs
         public ActionResult Index()
         {
-            return View(db.BOOKs.ToList());
+            return View(db.BOOKs.ToList().OrderBy(x => x.DESCRIPTION));
         }
 
         // GET: BOOKs/Details/5

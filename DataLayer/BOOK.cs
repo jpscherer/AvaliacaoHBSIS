@@ -17,13 +17,17 @@ namespace DataLayer
     public partial class BOOK
     {
         [DisplayName("Id")]
+        [Required]
         public int ID { get; set; }
         [DisplayName("Título")]
+        [Required]
         public string TITLE { get; set; }
         [DisplayName("Descrição")]
+        [Required]
         public string DESCRIPTION { get; set; }
         [DisplayName("Data Lançamento")]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
+        [Required]
         public System.DateTime RELEASE_DATE { get; set; }
     }
 }
